@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780930197207",
+    "project_id": "remotecontroller-dcd52",
+    "storage_bucket": "remotecontroller-dcd52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780930197207:android:f0e91e2c6cd491e70cb292",
+        "android_client_info": {
+          "package_name": "com.example.remotecontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780930197207-mso7bl763skfhnfjs8856o2vkecejb3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvsCurT3aYgs5nW5WaiwB0BV0oqoQjvMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780930197207-mso7bl763skfhnfjs8856o2vkecejb3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
